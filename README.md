@@ -69,6 +69,6 @@ ansible-playbook -i inventory --private-key /home/mohamed/secretkey.pem
 
 create the node
 
-![2.png](screenshots/2.png)
+![2.jpeg](screenshots/2.jpeg)
 
-![3.png](screenshots/3.png)
+![3.jpeg](screenshots/3.jpeg)
